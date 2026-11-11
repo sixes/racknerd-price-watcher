@@ -1,0 +1,14 @@
+{
+  "url": "https://my.racknerd.com/index.php?rp=/store/special-promos",
+  "timeout_seconds": 30,
+  "retries": 2,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "gmail_email": "sixes2024@gmail.com",
+  "gmail_app_password": "bqaasynqhphzszse",
+  "recipient_email": "sixes2010@gmail.com",
+  "healthcheck_url": "https://hc-ping.com/a772c9bb-de82-40e5-a482-6b7b185464a3",
+  "healthcheck_fail_url": "https://hc-ping.com/a772c9bb-de82-40e5-a482-6b7b185464a3/fail",
+  "state_file": "state.json",
+  "log_file": "logs/racknerd.log"
+}
